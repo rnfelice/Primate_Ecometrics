@@ -1,0 +1,53 @@
+﻿Family,Scientific_Name,Alt_name,Alt_name2,Common_Name,IMI ,Body_Size_Mean,cube_root_BM,locomotor_type,Body_Size_(g)_Male,Body_Size_(g)_Female
+Callitrichidae,Callithrix jacchus,Callithrix_jacchus,Callithrix_jacchus,Common marmoset,76,320.5,6.843464383,,317,324
+Callitrichidae,Callithrix penicillata,Callithrix_penicillata,Callithrix_penicillata,Black-tufted marmoset,76,325.5,6.878868346,,344,307
+Callitrichidae,Callithrix aurita,Callithrix_aurita,Callithrix_aurita,Buffy-tufted marmoset,74,429,7.541986732,,429,429
+Callitrichidae,Mico argentatus,Mico_argentatus,Mico_argentatus,Silvery marmoset,76,346.5,7.023728995,,333,360
+Callitrichidae,Cebuella pygmaea,Cebuella_pygmaea,Cebuella_pygmaea,Pygmy marmoset,69,116,4.876998961,Q/L,110,122
+Callitrichidae,Leontopithecus rosalia,Leontopithecus_rosalia,Leontopithecus_rosalia,Golden lion tamarin,89,609,8.476289168,L,620,598
+Callitrichidae,Saguinus midas,Saguinus_midas,Saguinus_midas,Red-handed tamarin,77,545,8.16830917,Q,515,575
+Callitrichidae,Saguinus nigricollis,Leontocebus_nigricollis,Saguinus_nigricollis,Black-mantled tamarin,78,476,7.807925322,,468,484
+Callitrichidae,Saguinus fuscicollis,Leontocebus_fuscicollis,Saguinus_fuscicollis,Brown-mantled tamarin,79,350.5,7.050652992,Q/L,343,358
+Callitrichidae,Saguinus tripartitus,Leontocebus_tripartitus,Saguinus_tripartitus,Golden-mantled tamarin,80,385,7.274786349,,385,
+Callitrichidae,Saguinus mystax,Saguinus_mystax,Saguinus_mystax,Moustached tamarin,74,524.5,8.064581419,Q,510,539
+Callitrichidae,Saguinus labiatus,Saguinus_labiatus,Saguinus_labiatus,White-lipped tamarin,73,514.5,8.012999698,L,490,539
+Callitrichidae,Saguinus imperator,Saguinus_imperator,Saguinus_imperator,Emperor tamarin,75,474.5,7.799715089,,474,475
+Callitrichidae,Saguinus oedipus,Saguinus_oedipus,Saguinus_oedipus,Cottontop tamarin,74,411,7.434993742,,418,404
+Callitrichidae,Saguinus geoffroyi,Saguinus_geoffroyi,Saguinus_geoffroyi,Geoffroy's tamarin,76,492,7.894446773,Q,482,502
+Callitrichidae,Saguinus leucopus,Saguinus_leucopus,Saguinus_leucopus,White-footed tamarin,74,492,7.894446773,,494,490
+Callitrichidae,Callimico goeldii,Callimico_goeldii,Callimico_goeldii,Goeldi's marmoset,69,483.5,7.84871982,L,499,468
+Cebidae,Cebus capucinus,Cebus_capucinus,Cebus_capucinus,Colombian white-faced capuchin,81,3110,14.59665902,Q,3680,2540
+Cebidae,Cebus albifrons,Cebus_albifrons,Cebus_albifrons,Humboldt's white-fronted capuchin,80,2735,13.98467711,,3180,2290
+Cebidae,Cebus olivaceus,Cebus_olivaceus,Cebus_olivaceus,Wedge-capped capuchin,83,2905,14.26862242,Q,3290,2520
+Cebidae,Sapajus apella,Sapajus_apella,Sapajus_apella,Tufted capuchin,81,3085,14.55744159,Q,3650,2520
+Cebidae,Sapajus nigritus ,Sapajus_nigritus,Sapajus_nigritus,Black capuchin,82,2731,13.97785615,,3247,2215
+Cebidae,Sapajus libidinosus,Sapajus_libidinosus,Sapajus_libidinosus,Black-striped capuchin,80,2510,13.59016013,,2910,2110
+Cebidae,Sapajus xanthosternos,Sapajus_xanthosternos,Sapajus_xanthosternos,Golden-bellied capuchin,77,2440.5,13.46355051,,2714,2167
+Cebidae,Saimiri sciureus,Saimiri_sciureus,Saimiri_sciureus,Guianan squirrel monkey,80,767.25,9.154731943,Q,,
+Cebidae,Saimiri boliviensis,Saimiri_boliviensis,Saimiri_boliviensis,Black-capped squirrel monkey,80,871.5,9.551885998,Q,992,751
+Aotidae,Aotus lemurinus,Aotus_lemurinus,Aotus_lemurinus,Gray-bellied night monkey,73,896,9.640569057,,918,874
+Aotidae,Aotus trivirgatus,Aotus_trivirgatus,Aotus_trivirgatus,Three-striped night monkey,75,774.5,9.183476959,,813,736
+Callicebinae,Callicebus donacophilus,Callicebus_donacophilus,Plecturocebus_donacophilus,White-eared titi,75,950,9.830475725,,991,909
+Callicebinae,Callicebus brunneus,Callicebus_brunneus,Plecturocebus_brunneus,Brown titi,79,829.5,9.395908888,Q,854,805
+Callicebinae,Callicebus moloch,Callicebus_moloch,Plecturocebus_moloch,Red-bellied titi/ Dusky titi,74,988,9.959838925,,1020,956
+Callicebinae,Callicebus personatus,Callicebus_personatus,Callicebus_personatus,Masked titi,73,1245,10.75779136,,1280,1210
+Callicebinae,Callicebus cupreus,Callicebus_cupreus,Plecturocebus_cupreus,Coppery titi,77,1070,10.22809122,,1020,1120
+Callicebinae,Callicebus torquatus,Callicebus_torquatus,Cheracebus_torquatus,Widow titi,79,1245,10.75779136,Q,1280,1210
+Pitheciidae,Pithecia pithecia,Pithecia_pithecia,Pithecia_pithecia,White-faced saki,75,1760,12.07362147,L,1940,1580
+Pitheciidae,Pithecia monachus,Pithecia_monachus,Pithecia_monachus,Monk saki,77.6,2360,13.31386046,,2610,2110
+Pitheciidae,Chiropotes sagulatus,Chiropotes_chiropotes,Chiropotes_chiropotes,Rio Negro bearded saki,83,2740,13.99319397,,2900,2580
+Pitheciidae,Chiropotes satanas,Chiropotes_satanas,Chiropotes_satanas,Black bearded saki,83,2885,14.23580201,Q,2885,2885
+Pitheciidae,Cacajao calvus,Cacajao_calvus,Cacajao_calvus,Bald uakari,83,3165,14.68220346,Q,3450,2880
+Alouattinae,Alouatta palliata,Alouatta_palliata,Alouatta_palliata,Mantled howler,98,6250,18.42015749,Q,7150,5350
+Alouattinae,Alouatta belzebul,Alouatta_belzebul,Alouatta_belzebul,Red-handed howler,105,6395,18.56151909,,7270,5520
+Alouattinae,Alouatta guariba,Alouatta_guariba,Alouatta_guariba,Brown howler,95.11,5362.5,17.5034007,,6175,4550
+Alouattinae,Alouatta macconnelli,Alouatta_macconnelli,Alouatta_macconnelli,Guyanan red howler,91.22,6292.5,18.46181557,,7585,5000
+Alouattinae,Alouatta seniculus,Alouatta_seniculus,Alouatta_seniculus_ssp._juara,Venezuelan red howler,97,5950,18.12058949,Q,6690,5210
+Alouattinae,Alouatta caraya,Alouatta_caraya,Alouatta_caraya,Black howler,97,5850,18.0184995,Q,6420,4330
+Atelinae,Ateles paniscus,Ateles_paniscus,Ateles_paniscus,Red-faced spider monkey,105,8775,20.62603301,S,9110,8440
+Atelinae,Ateles belzebuth,Ateles_belzebuth,Ateles_belzebuth,White-fronted spider monkey,109,7770,19.80646662,S,8290,7250
+Atelinae,Ateles fusciceps,Ateles_fusciceps,Ateles_fusciceps,Black-headed spider monkey,103,9025,20.82008046,,8890,9160
+Atelinae,Ateles geoffroyi,Ateles_geoffroyi,Ateles_geoffroyi,Geoffroy's spider monkey,105,7535,19.60473993,Q/S,7780,7290
+Atelinae,Brachyteles arachnoides,Brachyteles_arachnoides,Brachyteles_arachnoides,Southern muriqui,104,8840,20.67683625,,9610,8070
+Atelinae,Lagothrix lagothricha,Lagothrix_lagotricha,Lagothrix_lagotricha,Brown woolly monkey,98,7150,19.26498524,Q,7280,7020
+Atelinae,Lagothrix cana,Lagothrix_cana,Lagothrix_cana,Gray woolly monkey,96,8571.5,20.46533901,,9493,7650
